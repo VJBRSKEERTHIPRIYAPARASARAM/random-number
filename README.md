@@ -39,7 +39,7 @@
     <h1>Random Number Generator</h1>
     <div class="random-number">
         <script>
-            // JavaScript code to generate and display a random number between 1 and 100
+            
             document.write(Math.floor(Math.random() * 100) + 1);
         </script>
     </div>
